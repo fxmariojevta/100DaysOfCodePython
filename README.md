@@ -17,4 +17,4 @@
 
 ex: <br>
 * docs: updated README.md
-* feat: (day 01) add function to get user input
+* (day 01) feat: add function to get user input
