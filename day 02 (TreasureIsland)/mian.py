@@ -21,6 +21,8 @@ ___/______/______/______/______/_____"=.o|o.--""__/______/______/______/___
 /_____/______/______/______/______/______/______/______/______/______/____ /
 *******************************************************************************
 ''')
+    # Art: https://ascii.co.uk/art
+    
     print("Welcome to Treasure Island.")
     print("Your mission is to find the treasure.")
 
@@ -42,6 +44,6 @@ ___/______/______/______/______/_____"=.o|o.--""__/______/______/______/___
 
         else:
             print("You get attacked by an angry trout. Game Over.")
-            
+
     else:
         print("You fell into a hole. Game Over.")
