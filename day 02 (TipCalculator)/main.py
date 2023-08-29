@@ -1,4 +1,4 @@
-if __name__ == '_main_':
+if __name__ == '__main__':
     print("Welcome to the tip calculator.")
     total = float(input("What was the total bill? $"))
     percentage = int(input("What percentage tip would you like to give? 10, 12, or 15? "))
